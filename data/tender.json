@@ -1,0 +1,153 @@
+{
+  "informasi_tender": {
+    "judul": " INTERNAL COMPETITVE SELECTION - TECHNICAL POSITION ",
+    "periode": "Maret 2026",
+    "posisi_tender": "Teknik"
+  },
+
+  "jabatan": [
+    {
+      "jabatan": "Manager Bidang Teknik Telekomunikasi",
+      "lokasi": "JATSC",
+      "level": "15"
+    },
+    {
+      "jabatan": "Manager Bidang Teknik Penunjang",
+      "lokasi": "JATSC",
+      "level": "15"
+    },
+    {
+      "jabatan": "Junior Manager Bidang Teknik Penunjang",
+      "lokasi": "Ambon",
+      "level": "14"
+    },
+    {
+      "jabatan": "Junior Manager Bidang Teknik Telekomunikasi",
+      "lokasi": "Wamena",
+      "level": "14"
+    },
+    {
+      "jabatan": "Manager Teknik",
+      "lokasi": "Wamena",
+      "level": "14"
+    }
+  ],
+
+  "seleksi_administratif": {
+
+    "mandatory": [
+
+      {
+        "aspek": "Catatan Hukuman",
+        "rincian": "Diutamakan memiliki hasil penilaian Soft Competencies yang masih berlaku pada kategori High",
+        "metode": "Mandatory",
+        "teknis": "Ya / Tidak"
+      },
+
+      {
+        "aspek": "Rekomendasi Atasan",
+        "rincian": "Diutamakan 1 (satu) level di bawah jabatan sasaran ",
+        "metode": "Mandatory",
+        "teknis": "Ya / Tidak"
+      },
+
+      {
+        "aspek": "Level Jabatan",
+        "rincian": "Diutamakan memiliki Sertifikat Kemampuan Bahasa Inggris (TOEIC/TOEFL) min. 450",
+        "metode": "Mandatory",
+        "teknis": "Ya / Tidak"
+      },
+
+      {
+        "aspek": "Kategori 9 Box",
+        "rincian": "Memiliki kompetensi yang sesuai dengan jabatan sasaran",
+        "metode": "Mandatory",
+        "teknis": "Ya / Tidak"
+      },
+
+      {
+        "aspek": "Kompetensi Khusus",
+        "rincian": "Tidak memiliki catatan hukuman disiplin pada 2 (dua) tahun terakhir",
+        "metode": "Mandatory",
+        "teknis": "Ya / Tidak"
+      },
+
+      {
+        "aspek": "Skor TOEFL",
+        "rincian": "Memperoleh rekomendasi atasan setingkat BOD-1",
+        "metode": "Mandatory",
+        "teknis": "Ya / Tidak"
+      } 
+
+    ],
+
+    "ranking": [
+
+      {
+        "aspek": "Hasil Penilaian Kinerja",
+        "rincian": "Memiliki Nilai kinerja tahun 2025 pada kategori High Performer",
+        "Skor": ""
+      },
+
+      {
+        "aspek": "Hasil Penilaian Soft Competencies",
+        "rincian": "Memiliki Hasil Penilaian Soft Competencies yang masih berlaku pada kategori High",
+        "Skor": ""
+      },
+
+      {
+        "aspek": "Pengalaman Manajerial",
+        "rincian": "Diutamakan memiliki Pengalaman pada posisi Managerial",
+        "Skor": ""
+      }   
+
+    ]
+  },
+
+  "tahap_wawancara": [
+    {
+      "aspek": "Laporan Hasil Analisis",
+      "rincian": "Peserta diminta melakukan analisis terhadap isu operasional perusahaan"
+    },
+    {
+      "aspek": "Presentasi",
+      "rincian": "Peserta memaparkan hasil analisis kepada penguji dan dorektorat terkait"
+    },
+    {
+      "aspek": "Pemahaman Manual ATS",
+      "rincian": "Diskusi dan penilaian terhadap pemahaman kandidat atas manual ATS"
+    }
+  ],
+
+    "jadwal": [
+    {
+      "tahap": "Pendaftaran Job Tender",
+      "tanggal": "14-16 Maret 2026",
+      "waktu": "Tutup Pkl. 12.00 WIB"
+    },
+    {
+      "tahap": "Pelaksanaan Seleksi Administrasi",
+      "tanggal": "to be announced"
+    },
+    {
+      "tahap": "Pengumuman Hasil Seleksi",
+      "tanggal": "to be announced"
+    },
+    {
+      "tahap": "Batas Pengumpulan PBA",
+      "tanggal": "to be announced"
+    },
+    {
+      "tahap": "Wawancara PBA",
+      "tanggal": "to be announced"
+    },
+    {
+      "tahap": "Penyampaian Laporan Hasil Job Tender",
+      "tanggal": "to be announced"
+    },
+    {
+      "tahap": "Pengumuman Pemenang Job Tender",
+      "tanggal": "to be announced"
+    }
+  ]
+}
