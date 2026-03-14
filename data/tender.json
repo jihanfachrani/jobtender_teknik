@@ -38,43 +38,50 @@
     "mandatory": [
 
       {
-        "aspek": "Catatan Hukuman",
-        "rincian": "Diutamakan memiliki hasil penilaian Soft Competencies yang masih berlaku pada kategori High",
-        "metode": "Mandatory",
-        "teknis": "Ya / Tidak"
-      },
-
-      {
-        "aspek": "Rekomendasi Atasan",
-        "rincian": "Diutamakan 1 (satu) level di bawah jabatan sasaran ",
-        "metode": "Mandatory",
-        "teknis": "Ya / Tidak"
-      },
-
-      {
-        "aspek": "Level Jabatan",
-        "rincian": "Diutamakan memiliki Sertifikat Kemampuan Bahasa Inggris (TOEIC/TOEFL) min. 450",
-        "metode": "Mandatory",
-        "teknis": "Ya / Tidak"
-      },
-
-      {
-        "aspek": "Kategori 9 Box",
-        "rincian": "Memiliki kompetensi yang sesuai dengan jabatan sasaran",
-        "metode": "Mandatory",
-        "teknis": "Ya / Tidak"
-      },
-
-      {
-        "aspek": "Kompetensi Khusus",
+        "aspek": "Catatan Hukuman Disiplin",
         "rincian": "Tidak memiliki catatan hukuman disiplin pada 2 (dua) tahun terakhir",
         "metode": "Mandatory",
         "teknis": "Ya / Tidak"
       },
 
       {
-        "aspek": "Skor TOEFL",
+        "aspek": "Level Jabatan",
+        "rincian": "Memiliki jarak level maksimal 1 level dari jabatan sasaran.",
+        "metode": "Mandatory",
+        "teknis": "Ya / Tidak"
+      },
+
+      {
+        "aspek": "Kategori 9-Box",
+        "rincian": "Berada pada kategori Star, Possible Future Star, atau Key Contributor pada 9-Box Matrix Perusahaan",
+        "metode": "Mandatory",
+        "teknis": "Ya / Tidak"
+      },
+
+      {
+        "aspek": "Kompetensi",
+        "rincian": "Memiliki kompetensi yang sesuai dengan jabatan sasaran",
+        "metode": "Mandatory",
+        "teknis": "Ya / Tidak"
+      },
+
+      {
+        "aspek": "Kemampuan Bahasa Inggris",
+        "rincian": "Memiliki sertifikat kemampuan Bahasa Inggris (TOEIC/TOEFL) minimal 450",
+        "metode": "Mandatory",
+        "teknis": "Ya / Tidak"
+      },
+      
+      {
+        "aspek": "Rekomendasi Atasan",
         "rincian": "Memperoleh rekomendasi atasan setingkat BOD-1",
+        "metode": "Mandatory",
+        "teknis": "Ya / Tidak"
+      },
+
+      {
+        "aspek": "SMAP",
+        "rincian": "Pengisian kuisioner Sistem Manajemen Anti Penyuapan (SMAP)",
         "metode": "Mandatory",
         "teknis": "Ya / Tidak"
       } 
@@ -84,70 +91,69 @@
     "ranking": [
 
       {
-        "aspek": "Hasil Penilaian Kinerja",
-        "rincian": "Memiliki Nilai kinerja tahun 2025 pada kategori High Performer",
+        "aspek": "Corporate Value",
+        "rincian": "Meliputi pemahaman dan implementasi AKHLAK (Amanah, Kompeten, Harmonis, Loyal, Adaptif, Kolaboratif) \n karyawan dalam melaksanakan tugas dan tanggung jawabnya.",
         "Skor": ""
       },
 
       {
-        "aspek": "Hasil Penilaian Soft Competencies",
-        "rincian": "Memiliki Hasil Penilaian Soft Competencies yang masih berlaku pada kategori High",
+        "aspek": "Pemahaman Terhadap Jabatan Sasaran",
+        "rincian": "Meliputi pemahaman dan implementasi terhadap Jabatan Sasaran (Tugas Pokok, Fungsi, Wewenang, Permasalahan dan Alternatif Solusi) \n dalam mengembangkan Kantor Cabang/Lokasi Kerjanya.",
         "Skor": ""
       },
 
       {
-        "aspek": "Pengalaman Manajerial",
-        "rincian": "Diutamakan memiliki Pengalaman pada posisi Managerial",
+        "aspek": "Leadership Skill",
+        "rincian": "Meliputi keterampilan komunikasi, problem solving, analytical thinking, digital concept, dan pencapaian signifikan.",
         "Skor": ""
-      }   
+      },
+      
+      {
+        "aspek": "Sistem Manajemen Anti Penyuapan (SMAP)",
+        "rincian": "Meliputi pemahaman serta pengisian formulir mengenai Sistem Manajemen Anti Penyuapan (SMAP)",
+        "Skor": ""
+      }
 
     ]
   },
 
   "tahap_wawancara": [
     {
-      "aspek": "Laporan Hasil Analisis",
-      "rincian": "Peserta diminta melakukan analisis terhadap isu dalam perusahaan"
-    },
-    {
       "aspek": "Presentasi",
-      "rincian": "Peserta memaparkan hasil analisis kepada penguji dan direktorat terkait"
-    },
-    {
-      "aspek": "Pemahaman Manual Terhadap Bidang Terkait",
-      "rincian": "Diskusi dan penilaian terhadap pemahaman kandidat atas manual terkait"
+      "rincian": "Peserta menyiapkan Paparan yg disusun dalam format PowerPoint (PPT) dengan jumlah maksimal 5 (lima) slide yang memuat visi, misi, program kerja, serta pemahaman terhadap jabatan sasaran yang mencakup tugas pokok, fungsi, dan wewenang, termasuk identifikasi permasalahan serta alternatif solusi yang diusulkan"
     }
   ],
 
     "jadwal": [
     {
-      "tahap": "Pendaftaran Job Tender",
-      "tanggal": "14-16 Maret 2026",
-      "waktu": "Tutup Pkl. 12.00 WIB"
+      "tahap": "Persetujuan Direktur SDM dan Umum",
+      "tanggal": "13 Maret 2026",
+      "ket": "Persetujuan atas tahapan, aspek penilaian, dan timeline pelaksanaan Job Tender untuk disampaikan dalam pengumuman kepada karyawan."
     },
+
+    {
+      "tahap": "Penerbitan Pengumuman Pembukaan Job Tender",
+      "tanggal": "14 Maret 2026",
+      "ket": "Melalui Aplikasi e-Chain"
+    },
+
     {
       "tahap": "Pelaksanaan Seleksi Administrasi",
-      "tanggal": "to be announced"
+      "tanggal": "16 - 18 Maret 2026",
+      "ket": "Dilaksanakan oleh Career & Talent Department berdasarkan data yang telah tercatat dalam Aplikasi e-Chain"
     },
+
     {
-      "tahap": "Pengumuman Hasil Seleksi",
-      "tanggal": "to be announced"
+      "tahap": "Pelaksanaan Wawancara/Uji Kelayakan dan Kepatutan",
+      "tanggal": "25 - 27 Maret 2026",
+      "ket": "Peserta diuji oleh Pewawancara dari Direktorat Teknik dan dari Direktorat SDM dan Umum"
     },
+
     {
-      "tahap": "Batas Pengumpulan PBA",
-      "tanggal": "to be announced"
-    },
-    {
-      "tahap": "Wawancara PBA",
-      "tanggal": "to be announced"
-    },
-    {
-      "tahap": "Penyampaian Laporan Hasil Job Tender",
-      "tanggal": "to be announced"
-    },
-    {
-      "tahap": "Pengumuman Pemenang Job Tender",
-      "tanggal": "to be announced"
+      "tahap": "Penyiapan administrasi penetapan SK",
+      "tanggal": "30 - 31 Maret 2026",
+      "ket": "Career & Talent Department menyiapkan administrasi yang dibutuhkan guna penetapan pemenang Job Tender."
     }
+ 
   ]
 }
