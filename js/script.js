@@ -35,7 +35,6 @@ jabatanTable.innerHTML += `
 /* =========================
    SELEKSI ADMINISTRATIF
 ========================= */
-
 const adminTable = document.getElementById("adminTable")
 
 // Mandatory
@@ -44,38 +43,36 @@ data.seleksi_administratif.mandatory.forEach(m => {
 adminTable.innerHTML += `
 
 <tr>
-
+<td>${m.aspek}</td>
 <td>${m.rincian}</td>
-
+<td><span class="badge mandatory">${m.metode}</span></td>
 </tr>
 
 `
-{/* <td>${m.aspek}</td>
-<td><span class="badge mandatory">${m.metode}</span></td> */}
 
 })
 
-// // Ranking (3 aspek) dengan merge kolom metode + badge
-// const ranking = data.seleksi_administratif.ranking;
-// if (ranking.length > 0) {
-//   adminTable.innerHTML += `
-//     <tr>
-//       <td>${ranking[0].aspek}</td>
-//       <td>${ranking[0].rincian}</td>
-//       <td rowspan="${ranking.length}">
-//         <span class="badge ranking">Ranking</span>
-//       </td>
-//     </tr>
-//   `;
-//   for (let i = 1; i < ranking.length; i++) {
-//     adminTable.innerHTML += `
-//       <tr>
-//         <td>${ranking[i].aspek}</td>
-//         <td>${ranking[i].rincian}</td>
-//       </tr>
-//     `;
-//   }
-// }
+// Ranking (3 aspek) dengan merge kolom metode + badge
+const ranking = data.seleksi_administratif.ranking;
+if (ranking.length > 0) {
+  adminTable.innerHTML += `
+    <tr>
+      <td>${ranking[0].aspek}</td>
+      <td>${ranking[0].rincian}</td>
+      <td rowspan="${ranking.length}">
+        <span class="badge ranking">Ranking</span>
+      </td>
+    </tr>
+  `;
+  for (let i = 1; i < ranking.length; i++) {
+    adminTable.innerHTML += `
+      <tr>
+        <td>${ranking[i].aspek}</td>
+        <td>${ranking[i].rincian}</td>
+      </tr>
+    `;
+  }
+}
 
 
 /* =========================
@@ -115,9 +112,10 @@ jadwalTable.innerHTML += `
 
 <td>${j.tahap}</td>
 <td>${j.tanggal}</td>
-<td>${j.waktu ? j.waktu : "-"}</td>
+<td>${j.ket}</td>
 
 </tr>
+
 
 `
 
@@ -126,3 +124,5 @@ jadwalTable.innerHTML += `
 }
 
 loadTender()
+
+
