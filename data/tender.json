@@ -86,8 +86,35 @@
         "teknis": "Ya / Tidak"
       } 
 
+    ],
+
+    "ranking": [
+
+      {
+        "aspek": "Corporate Value",
+        "rincian": "Meliputi pemahaman dan implementasi AKHLAK (Amanah, Kompeten, Harmonis, Loyal, Adaptif, Kolaboratif) \n karyawan dalam melaksanakan tugas dan tanggung jawabnya.",
+        "Skor": ""
+      },
+
+      {
+        "aspek": "Pemahaman Terhadap Jabatan Sasaran",
+        "rincian": "Meliputi pemahaman dan implementasi terhadap Jabatan Sasaran (Tugas Pokok, Fungsi, Wewenang, Permasalahan dan Alternatif Solusi) \n dalam mengembangkan Kantor Cabang/Lokasi Kerjanya.",
+        "Skor": ""
+      },
+
+      {
+        "aspek": "Leadership Skill",
+        "rincian": "Meliputi keterampilan komunikasi, problem solving, analytical thinking, digital concept, dan pencapaian signifikan.",
+        "Skor": ""
+      },
+      
+      {
+        "aspek": "Sistem Manajemen Anti Penyuapan (SMAP)",
+        "rincian": "Meliputi pemahaman serta pengisian formulir mengenai Sistem Manajemen Anti Penyuapan (SMAP)",
+        "Skor": ""
+      }
+
     ]
-    
   },
 
   "tahap_wawancara": [
