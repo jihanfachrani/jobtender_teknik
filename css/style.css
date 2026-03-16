@@ -146,11 +146,13 @@ max-width:900px;
 
 line-height:1.7;
 
+margin-top:15px;
+
 }
 
 .card:hover{
 
-transform:translateY(-5px);
+transform:translateY(-7px);
 
 }
 
@@ -266,7 +268,7 @@ flex-direction:column;
 table{
 
 font-size:14px;
-display:block; 
+/* display:block; */
 overflow-x:auto; 
 
 }
