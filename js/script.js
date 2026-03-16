@@ -24,6 +24,7 @@ jabatanTable.innerHTML += `
 <tr>
 <td>${j.jabatan}</td>
 <td>${j.level}</td>
+<td>${j.jumlah}</td>
 </tr>
 
 `
@@ -37,15 +38,23 @@ jabatanTable.innerHTML += `
 ========================= */
 const adminTable = document.getElementById("adminTable")
 
-// Mandatory
 data.seleksi_administratif.mandatory.forEach(m => {
+
+let badgeClass = "mandatory"
+let badgeText = m.metode
+
+// khusus Kemampuan Bahasa Inggris
+if(m.aspek === "Kemampuan Bahasa Inggris"){
+badgeClass = "nilai-tambah"
+badgeText = "Nilai Tambah"
+}
 
 adminTable.innerHTML += `
 
 <tr>
 <td>${m.aspek}</td>
 <td>${m.rincian}</td>
-<td><span class="badge mandatory">${m.metode}</span></td>
+<td><span class="badge ${badgeClass}">${badgeText}</span></td>
 </tr>
 
 `
