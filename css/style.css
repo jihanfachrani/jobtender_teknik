@@ -268,7 +268,7 @@ flex-direction:column;
 table{
 
 font-size:14px;
-/* display:block; */
+display:block; 
 overflow-x:auto; 
 
 }
