@@ -9,27 +9,32 @@
     {
       "jabatan": "Manager Bidang Teknik Telekomunikasi",
       "lokasi": "JATSC",
-      "level": "15"
+      "level": "15",
+      "jumlah": "2 Posisi"
     },
     {
       "jabatan": "Manager Bidang Teknik Penunjang",
       "lokasi": "JATSC",
-      "level": "15"
+      "level": "15",
+      "jumlah": "1 Posisi"
     },
     {
       "jabatan": "Junior Manager Bidang Teknik Penunjang",
       "lokasi": "Ambon",
-      "level": "14"
+      "level": "14",
+      "jumlah": "2 Posisi"
     },
     {
       "jabatan": "Junior Manager Bidang Teknik Telekomunikasi",
       "lokasi": "Wamena",
-      "level": "14"
+      "level": "14",
+      "jumlah": "3 Posisi"
     },
     {
       "jabatan": "Manager Teknik",
       "lokasi": "Wamena",
-      "level": "14"
+      "level": "14",
+      "jumlah": "6 Posisi"
     }
   ],
 
@@ -67,7 +72,7 @@
 
       {
         "aspek": "Kemampuan Bahasa Inggris",
-        "rincian": "Memiliki sertifikat kemampuan Bahasa Inggris (TOEIC/TOEFL) minimal 450",
+        "rincian": "Diutamakan memiliki sertifikat kemampuan Bahasa Inggris (TOEIC/TOEFL) minimal 450",
         "metode": "Mandatory",
         "teknis": "Ya / Tidak"
       },
