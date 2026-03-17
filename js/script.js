@@ -130,21 +130,27 @@ jadwalTable.innerHTML += `
 
 })
 
+
 const pendaftaranContainer = document.getElementById("pendaftaran")
 
-data.pendaftaran.forEach(e => {
+data.pendaftaran.forEach(w => {
 
 pendaftaranContainer.innerHTML += `
 
 <div class="card">
 
-<h3>${e.aspek}</h3>
+<h3>${w.aspek}</h3>
 
-<p>${e.rincian}</p>
+<p>${w.rincian}</p>
+
+<a href="https://e-chain.airnavindonesia.co.id/jobtender/usulan" target="_blank">
+https://e-chain.airnavindonesia.co.id/jobtender/usulan
+</a>
 
 </div>
 
 `
+
 })
    
 }
