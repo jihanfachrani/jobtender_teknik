@@ -107,24 +107,6 @@ wawancaraContainer.innerHTML += `
 })
 
 
-const pendaftaranContainer = document.getElementById("pendaftaran")
-
-data.pendaftaran.forEach(w => {
-
-pendaftaranContainer.innerHTML += `
-
-<div class="card">
-
-<h3>${w.aspek}</h3>
-
-<p>${w.rincian}</p>
-
-</div>
-
-`
-
-})
-
 /* =========================
    JADWAL
 ========================= */
@@ -143,6 +125,25 @@ jadwalTable.innerHTML += `
 
 </tr>
 
+
+`
+
+})
+
+
+const pendaftaranContainer = document.getElementById("pendaftaran")
+
+data.pendaftaran.forEach(e => {
+
+pendaftaranContainer.innerHTML += `
+
+<div class="card">
+
+<h3>${e.aspek}</h3>
+
+<p>${e.rincian}</p>
+
+</div>
 
 `
 
