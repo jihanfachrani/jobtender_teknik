@@ -1,220 +1,172 @@
 {
   "informasi_tender": {
-    "judul": "INTERNAL COMPETITIVE SELECTION - OPERATIONAL POSITION",
+    "judul": " INTERNAL COMPETITIVE SELECTION - TECHNICAL POSITION ",
     "periode": "Maret 2026",
-    "posisi_tender": "Operasional"
+    "posisi_tender": "Teknik"
   },
 
   "jabatan": [
     {
-      "jabatan": "Manager TWR-APP/TMA",
+      "jabatan": "Manager Bidang Teknik Telekomunikasi",
       "lokasi": "JATSC",
-      "level": "16",
+      "level": "15",
       "jumlah": "2 Posisi"
     },
     {
-      "jabatan": "Manager Perencanaan dan Evaluasi Komunikasi Penerbangan",
+      "jabatan": "Manager Bidang Teknik Penunjang",
       "lokasi": "JATSC",
-      "level": "16",
+      "level": "15",
       "jumlah": "1 Posisi"
     },
     {
-      "jabatan": "Manager Komunikasi Penerbangan",
-      "lokasi": "JATSC",
-      "level": "14",
-      "jumlah": "1 Posisi"
-    },
-    {
-      "jabatan": "Manager Operasi",
+      "jabatan": "Junior Manager Bidang Teknik Penunjang",
       "lokasi": "Ambon",
       "level": "14",
-      "jumlah": "1 Posisi"
+      "jumlah": "2 Posisi"
     },
     {
-      "jabatan": "Manager Operasi",
+      "jabatan": "Junior Manager Bidang Teknik Telekomunikasi",
       "lokasi": "Wamena",
       "level": "14",
-      "jumlah": "1 Posisi"
+      "jumlah": "3 Posisi"
+    },
+    {
+      "jabatan": "Manager Teknik",
+      "lokasi": "Wamena",
+      "level": "14",
+      "jumlah": "6 Posisi"
     }
   ],
-
 
   "seleksi_administratif": {
 
     "mandatory": [
 
       {
-        "aspek": "Catatan Hukuman",
-        "rincian": "Tidak memiliki catatan hukuman disiplin dalam 2 tahun terakhir",
+        "aspek": "Catatan Hukuman Disiplin",
+        "rincian": "Tidak memiliki catatan hukuman disiplin pada 2 (dua) tahun terakhir",
         "metode": "Mandatory",
-        "teknis": "Ya / Tidak",
-        "output":"Seluruh karyawan yang memenuhi persyaratan (eligible) dinyatakan lolos pada tahap Seleksi Administrasi.<p>**Status kelulusan peserta menunggu verifikasi Direktorat SDM.</p>"
+        "teknis": "Ya / Tidak"
       },
 
       {
         "aspek": "Level Jabatan",
-        "rincian": "Memiliki Jarak Level maksimal 2 level dari jabatan sasaran",
+        "rincian": "Memiliki jarak level maksimal 1 level dari jabatan sasaran.",
         "metode": "Mandatory",
-        "teknis": "Ya / Tidak",
-        "output":""
+        "teknis": "Ya / Tidak"
       },
 
       {
-        "aspek": "Kategori 9 Box",
-        "rincian": "Berada pada kategori Star, Possible Future Star atau Key Contributor pada 9-Box Matrix perusahaan",
+        "aspek": "Kategori 9-Box",
+        "rincian": "Berada pada kategori Star, Possible Future Star, atau Key Contributor pada 9-Box Matrix Perusahaan",
         "metode": "Mandatory",
-        "teknis": "Ya / Tidak",
-        "output":""
+        "teknis": "Ya / Tidak"
       },
 
       {
-        "aspek": "Kompetensi Khusus",
-        "rincian": "Kandidat harus memiliki kompetensi dan rating Surveillance untuk lokasi dengan Pelayanan Surveillance, dan kompetensi minimal Approach Control Procedural untuk lokasi dengan pelayanan non-surveillance.",
+        "aspek": "Kompetensi",
+        "rincian": "Memiliki kompetensi yang sesuai dengan jabatan sasaran",
         "metode": "Mandatory",
-        "teknis": "Ya / Tidak",
-        "output":""
+        "teknis": "Ya / Tidak"
       },
 
+      {
+        "aspek": "Kemampuan Bahasa Inggris",
+        "rincian": "Diutamakan memiliki sertifikat kemampuan Bahasa Inggris (TOEIC/TOEFL) minimal 450",
+        "metode": "Mandatory",
+        "teknis": "Ya / Tidak"
+      },
       
       {
-        "aspek": "Skor TOEFL",
-        "rincian": "Bagi kandidat dengan perbedaan tingkat jabatan lebih dari satu level dari jabatan yang dituju, maka diberlakukan ketentuan sebagai berikut:<ol><li>Jabatan sasaran Manager Operasi / Manager TWR-APP/TMA memiliki minimal TOEFL 550.</li><li>Jabatan sasaran Manager Perencanaan dan Evaluasi Komunikasi Penerbangan / Manager Komunikasi Penerbangan memiliki minimal TOEFL 500.</li></ol><p>Dokumen dapat disampaikan melalui email HR (hr.development@airnavindonesia.co.id).</p>",
+        "aspek": "Rekomendasi Atasan",
+        "rincian": "Memperoleh rekomendasi atasan setingkat BOD-1",
         "metode": "Mandatory",
-        "teknis": "Ya / Tidak",
-        "output":""
+        "teknis": "Ya / Tidak"
       },
-     
 
       {
-        "aspek": "Rekomendasi Atasan",
-        "rincian": "Memperoleh Rekomendasi  Atasan setingkat BOD-1",
+        "aspek": "SMAP",
+        "rincian": "Pengisian kuisioner Sistem Manajemen Anti Penyuapan (SMAP)",
         "metode": "Mandatory",
-        "teknis": "Ya / Tidak",
-        "output":""
-      }
+        "teknis": "Ya / Tidak"
+      } 
 
     ],
 
     "ranking": [
-    {
-        "aspek": "Pemahaman Manual ATS",
-        "rincian": "Penilaian terhadap pemahaman kandidat atas Manual ATS",
-        "metode": "Ranking",
-        "teknis": "Ya / Tidak",
-        "output":"Karyawan yang lolos maksimal 3 (tiga) kandidat untuk masing-masing Jabatan Sasaran, berdasarkan total nilai dari 4 (empat) aspek penilaian yang dilakukan perangkingan."
+
+      {
+        "aspek": "Corporate Value",
+        "rincian": "Meliputi pemahaman dan implementasi AKHLAK (Amanah, Kompeten, Harmonis, Loyal, Adaptif, Kolaboratif) \n karyawan dalam melaksanakan tugas dan tanggung jawabnya.",
+        "Skor": ""
       },
 
       {
-        "aspek": "Hasil Penilaian Kinerja",
-        "rincian": "Diutamakan memiliki hasil penilaian kinerja tahun 2025 pada kategori High Performer",
-        "metode": "Ranking",
-        "teknis": "Ya / Tidak",
-        "output":""
+        "aspek": "Pemahaman Terhadap Jabatan Sasaran",
+        "rincian": "Meliputi pemahaman dan implementasi terhadap Jabatan Sasaran (Tugas Pokok, Fungsi, Wewenang, Permasalahan dan Alternatif Solusi) \n dalam mengembangkan Kantor Cabang/Lokasi Kerjanya.",
+        "Skor": ""
       },
 
       {
-        "aspek": "Hasil Penilaian Soft Competencies",
-        "rincian": "Diutamakan memiliki hasil penilaian Soft competencies yang masih berlaku pada kategori High",
-        "metode": "Ranking",
-        "teknis": "Ya / Tidak",
-        "output":""
+        "aspek": "Leadership Skill",
+        "rincian": "Meliputi keterampilan komunikasi, problem solving, analytical thinking, digital concept, dan pencapaian signifikan.",
+        "Skor": ""
       },
       
       {
-        "aspek": "Pengalaman Manajerial",
-        "rincian": "Diutamakan memiliki pengalaman pada posisi managerial",
-        "metode": "Ranking",
-        "teknis": "Ya / Tidak",
-        "output":""
-      }  
+        "aspek": "Sistem Manajemen Anti Penyuapan (SMAP)",
+        "rincian": "Meliputi pemahaman serta pengisian formulir mengenai Sistem Manajemen Anti Penyuapan (SMAP)",
+        "Skor": ""
+      }
 
     ]
   },
 
-"tahap_wawancara": [
-    {
-      "aspek": "Verifikasi Sertifikat TOEFL",
-      "rincian": "Peserta menunjukkan versi official dari Sertifikat TOEFL ITP kepada Pewawancara bagi yang memiliki kewajiban dan mengirimkannya ke alamat email hr.development@airnavindonesia.co.id",
-      "metode":"Mandatory",
-      "output":"1 (satu) Pemenang Job Tender untuk masing-masing Jabatan Sasaran"
-    },
-    {
-      "aspek": "Laporan Hasil Analisis",
-      "rincian": "Laporan hasil Analisis terhadap isu/permasalahan operasional yang terdapat di Perusahaan beserta rekomendasi perbaikannya.",
-      "metode":"Ranking",
-      "output":""
-    },
+  "tahap_wawancara": [
     {
       "aspek": "Presentasi",
-      "rincian": "Laporan hasil Analisis terhadap isu/permasalahan operasional yang terdapat di Perusahaan beserta rekomendasi perbaikannya.",
-      "metode":"Ranking",
-      "output":""
+      "rincian": "Peserta menyiapkan Paparan yg disusun dalam format PowerPoint (PPT) dengan jumlah maksimal 5 (lima) slide yang memuat visi, misi, program kerja, serta pemahaman terhadap jabatan sasaran yang mencakup tugas pokok, fungsi, dan wewenang, termasuk identifikasi permasalahan serta alternatif solusi yang diusulkan"
     }
   ],
-
-  "pendaftaran": [
+  
+   "pendaftaran": [
     {
       "aspek": "Link Pendaftaran",
       "rincian": "https://e-chain.airnavindonesia.co.id/jobtender/usulan"
     }
   ], 
 
-  "jadwal": [
+    "jadwal": [
+
     {
       "tahap": "Penerbitan Pengumuman Pembukaan Job Tender",
-      "tanggal": "18 Maret 2026",
-      "ket":"Melalui Aplikasi e-Chain."
+      "tanggal": "16 Maret 2026",
+      "ket": "Melalui Aplikasi e-Chain"
     },
+
     {
       "tahap": "Batas Pendaftaran Job Tender",
-      "tanggal": "27 Maret 2026",
-      "ket":"Pendataran ditutup Pkl. 23.59 WIB."
+      "tanggal": "23 Maret 2026",
+      "ket": "Pendaftaran ditutup Pkl. 12.00 WIB"
     },
+
     {
       "tahap": "Pelaksanaan Seleksi Administrasi",
-      "tanggal": "30 - 31 Maret 2026",
-      "ket":"Dilaksanakan oleh Career & Talent Departemen berdasarkan Data yang telah tercatat dalam Aplikasi e-Chain."
+      "tanggal": "23 - 25 Maret 2026",
+      "ket": "Dilaksanakan oleh Career & Talent Department berdasarkan Data yang telah tercatat dalam Aplikasi e-Chain."
     },
-    {
-      "tahap": "Pengumuman Peserta Lolos Seleksi Administrasi",
-      "tanggal": "1 April 2026",
-      "ket":"Melalui Aplikasi e-Chain."
-    },
-    {
-      "tahap": "Pelaksanaan Uji Kompetensi Teknis",
-      "tanggal": "7 - 8 April 2026",
-      "ket":"Dilaksanakan menggunakan LMS dengan soal yang disediakan oleh Direktorat Operasi."
-    },
-    {
-      "tahap": "Proses Perangkingan Peserta",
-      "tanggal": "9 April 2026",
-      "ket":"Dilaksanakan oleh Career & Talent Departemen berdasarkan Data nilai peserta."
-    },
-    {
-      "tahap": "Pengumuman Peserta yang Lolos ke Tahap Wawancara",
-      "tanggal": "10 April 2026",
-      "ket":"Melalui Aplikasi e-Chain."
-    },
-    {
-      "tahap": "Batas Pengumpulan PBA",
-      "tanggal": "14 April 2026",
-      "ket":"Peserta mengirimkan Laporan hasil analisis maksimal Pkl. 23.59 WIB ke alamat email hr.development@airnavindonesia.co.id."
-    },
-    {
-      "tahap": "Pelaksanaan Wawancara PBA",
-      "tanggal": "16 - 17 April 2026",
-      "ket":"Peserta diuji oleh 2 (dua) orang Pewawancara dari Direktorat Operasi dan Direktorat SDM dan Umum."
-    },
-    {
-      "tahap": "Penyampaian Laporan Hasil Job Tender",
-      "tanggal": "21 April 2026",
-      "ket":"EVP of Human Capital Planning menyampaikan daftar pemenang Job Tender kepada Direktur SDM dan Umum."
-    },
-        {
-      "tahap": "Pengumuman Pemenang Job Tender",
-      "tanggal": "29 - 30 April 2026",
-      "ket":"Melalui Aplikasi e-Chain."
-    }
 
+    {
+      "tahap": "Pelaksanaan Wawancara/Uji Kelayakan dan Kepatutan",
+      "tanggal": "26 - 27 Maret 2026",
+      "ket": "Peserta diuji oleh Pewawancara dari Direktorat Teknik dan dari Direktorat SDM dan Umum."
+    },
+
+    {
+      "tahap": "Penyiapan Administrasi penetapan SK",
+      "tanggal": "30 - 31 Maret 2026",
+      "ket": "Career & Talent Department menyiapkan administrasi yang dibutuhkan guna penetapan pemenang Job Tender."
+    }
+ 
   ]
 }
