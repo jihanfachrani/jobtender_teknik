@@ -135,8 +135,8 @@ const pendaftaranContainer = document.getElementById("pendaftaran")
 pendaftaranContainer.innerHTML = `
   <div class="card">
     <p>${data.pendaftaran.deskripsi}</p>
-    <a href="${data.pendaftaran.link}" target="_blank" class="btn-daftar">
-      Klik untuk Daftar
+    <a href="${data.pendaftaran.link}">
+      https://e-chain.airnavindonesia.co.id/jobtender/usulan
     </a>
   </div>
 `
