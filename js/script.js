@@ -107,6 +107,24 @@ wawancaraContainer.innerHTML += `
 })
 
 
+const pendaftaranContainer = document.getElementById("pendaftaran")
+
+data.pendaftaran.forEach(w => {
+
+pendaftaranContainer.innerHTML += `
+
+<div class="card">
+
+<h3>${w.aspek}</h3>
+
+<p>${w.rincian}</p>
+
+</div>
+
+`
+
+})
+
 /* =========================
    JADWAL
 ========================= */
