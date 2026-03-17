@@ -132,15 +132,21 @@ jadwalTable.innerHTML += `
 
 const pendaftaranContainer = document.getElementById("pendaftaran")
 
-pendaftaranContainer.innerHTML = `
-  <div class="card">
-    <p>${data.pendaftaran.aspek}</p>
-    <a href="${data.pendaftaran.rincian}">
-      https://e-chain.airnavindonesia.co.id/jobtender/usulan
-    </a>
-  </div>
-`
+data.pendaftaran.forEach(e => {
 
+pendaftaranContainer.innerHTML += `
+
+<div class="card">
+
+<h3>${e.aspek}</h3>
+
+<p>${e.rincian}</p>
+
+</div>
+
+`
+})
+   
 }
 
 loadTender()
