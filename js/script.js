@@ -141,8 +141,6 @@ pendaftaranContainer.innerHTML += `
 
 <h3>${w.aspek}</h3>
 
-<p>${w.rincian}</p>
-
 <a href="https://e-chain.airnavindonesia.co.id/jobtender/usulan" target="_blank">
 https://e-chain.airnavindonesia.co.id/jobtender/usulan
 </a>
