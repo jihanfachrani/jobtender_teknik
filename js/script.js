@@ -130,24 +130,16 @@ jadwalTable.innerHTML += `
 
 })
 
-
 const pendaftaranContainer = document.getElementById("pendaftaran")
 
-data.pendaftaran.forEach(e => {
-
-pendaftaranContainer.innerHTML += `
-
-<div class="card">
-
-<h3>${e.aspek}</h3>
-
-<p>${e.rincian}</p>
-
-</div>
-
+pendaftaranContainer.innerHTML = `
+  <div class="card">
+    <p>${data.pendaftaran.deskripsi}</p>
+    <a href="${data.pendaftaran.link}" target="_blank" class="btn-daftar">
+      Klik untuk Daftar
+    </a>
+  </div>
 `
-
-})
 
 }
 
