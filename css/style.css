@@ -81,27 +81,6 @@ color:#003366;
 
 }
 
-.btn-daftar{
-
-display:inline-block;
-margin-top:10px;
-padding:10px 18px;
-
-background:#0d3b66;
-color:white;
-text-decoration:none;
-
-border-radius:6px;
-font-weight:bold;
-
-}
-
-.btn-daftar:hover{
-
-background:#145da0;
-
-}
-
 /* =====================
 TABLE
 ===================== */
@@ -173,30 +152,13 @@ margin-top:15px;
 
 .card:hover{
 
-transform:translateY(-5px);
+transform:translateY(-7px);
 
 }
 
 .card h3{
 
 margin-top:0;
-
-}
-.card a{
-
-display:block;
-margin-top:8px;
-
-color:#0d3b66;
-text-decoration:underline;
-
-word-break:break-all;
-
-}
-
-.card a:hover{
-
-color:#145da0;
 
 }
 
@@ -314,7 +276,7 @@ flex-direction:column;
 table{
 
 font-size:14px;
-display:block; 
+/* display:block; */
 overflow-x:auto; 
 
 }
