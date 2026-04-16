@@ -71,6 +71,7 @@ h2{
 margin-top:40px;
 color:#003366;
 text-align:center;
+line-height: 40px;
 
 }
 
@@ -78,6 +79,12 @@ h3{
 
 margin-top:20px;
 color:#003366;
+
+}
+
+p{
+
+line-height:1.6;
 
 }
 
@@ -113,6 +120,11 @@ tr:nth-child(even){
 
 background:#f9f9f9;
 
+}
+
+table td:first-child {
+  text-align: center;
+  width: 50px;
 }
 
 /* =====================
@@ -199,6 +211,7 @@ padding:12px;
 border-bottom:1px solid #eee;
 text-align:left;
 
+
 }
 
 .admin-table tr:hover{
@@ -276,7 +289,7 @@ flex-direction:column;
 table{
 
 font-size:14px;
-/* display:block; */
+display:block;
 overflow-x:auto; 
 
 }
@@ -292,43 +305,6 @@ padding:20px 10px;
 html, body{
 overflow-x:hidden;
 }
-
-
-/* @media (max-width:768px){
-
-.container{
-width:100%;
-padding:15px;
-}
-
-.logo{
-width:140px;
-}
-
-.card-container{
-flex-direction:column;
-}
-
-.card{
-width:100%;
-}
-
-table{
-font-size:14px;
-display:block;
-overflow-x:auto;
-}
-
-header{
-padding:20px 10px;
-}
-
-html, body{
-overflow-x:hidden;
-}
-
-}
- */
 
 
 /* =====================
